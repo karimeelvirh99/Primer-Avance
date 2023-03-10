@@ -1,0 +1,116 @@
+:root{
+	--f7-theme-color:#fff;
+	--f7-navbar-bg-color: #202124; /*navbar*/
+	--f7-navbar-link-color: #BF9F4C; /*navbar link*/
+	--f7-navbar-text-color:#fff;
+	--f7-bars-bg-color:#fff;/*toolbar*/
+	--f7-tabbar-link-inactive-color: #333; /*link toolbar*/
+	--f7-block-margin-vertical:20px;
+	--f7-card-footer-border-color:transparent;
+	--f7-page-bg-color:#202124;
+}body{
+	font-family: 'Brygada 1918', serif;
+}
+body h1,
+body h2,
+body h3{
+	font-family: 'Bebas Neue', cursive;
+}
+#app{
+	color: #fff;
+}
+.panel,
+.list{
+	background-color: #202124;
+}
+.panel .block-title{
+	color: #fff;
+	justify-content: center;
+	align-items: center;
+	display: flex;
+	font-size: 1.5rem;
+	padding-bottom: 4px;
+	padding-top: 4px;
+}
+.panel .list .item-link,
+.panel .list ul,
+.panel .list ul li{
+	background-color: #202124;
+}
+.panel .material-icons{
+	color: #BF9F4C;
+}
+.borde-amarillo{
+	border-bottom: solid;
+	border-color: #BF9F4C;
+	justify-content: center;
+	align-items: center;
+	display: flex;
+}
+.sin-borde-amarillo{
+	justify-content: center;
+	align-items: center;
+	display: flex;
+}
+.block-title-medium{
+	color: #fff;
+}
+.star{
+	font-size: 15px;
+}
+.img-fluid{
+	max-width: 100%;
+	display: block;
+}	
+.border-color-yellow{
+	--f7-theme-color-border-color:#BF9F4C!important;
+}
+.button-fill{
+	--f7-button-fill-pressed-bg-color:#BF9F4C!important;
+	--f7-theme-color-shade:#BF9F4C!important;
+	--f7-theme-color:#BF9F4C!important;
+	--f7-theme-color-tint:#BF9F4C!important;
+}
+.block-title-large{
+	color: #fff;
+}
+.lista{
+	font-size: 1.3rem;
+	justify-content: center;
+	align-items: center;
+	display: flex;
+	margin: 0px;
+	margin-top: 8px;
+}
+.lista .material-icons{
+	padding-right: 12px;
+}
+.detalles{
+	font-size: 12px;
+	justify-content: center;
+	align-items: center;
+	display: flex;
+	margin: 0px;
+}
+.datos{
+	justify-content: center;
+	align-items: center;
+	display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
